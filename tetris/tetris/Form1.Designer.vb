@@ -28,10 +28,14 @@ Partial Class Form1
         astroid = New PictureBox()
         enemy = New PictureBox()
         enemy2 = New PictureBox()
+        platform = New PictureBox()
+        enemy3 = New PictureBox()
         CType(avatar, ComponentModel.ISupportInitialize).BeginInit()
         CType(astroid, ComponentModel.ISupportInitialize).BeginInit()
         CType(enemy, ComponentModel.ISupportInitialize).BeginInit()
         CType(enemy2, ComponentModel.ISupportInitialize).BeginInit()
+        CType(platform, ComponentModel.ISupportInitialize).BeginInit()
+        CType(enemy3, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' avatar
@@ -51,7 +55,7 @@ Partial Class Form1
         ' astroid
         ' 
         astroid.Image = My.Resources.Resources._3df0c312d89ed5b_pngastroid
-        astroid.Location = New Point(424, 194)
+        astroid.Location = New Point(1186, 608)
         astroid.Name = "astroid"
         astroid.Size = New Size(130, 130)
         astroid.SizeMode = PictureBoxSizeMode.Zoom
@@ -61,7 +65,7 @@ Partial Class Form1
         ' enemy
         ' 
         enemy.Image = My.Resources.Resources._363116e7da047bd
-        enemy.Location = New Point(100, 115)
+        enemy.Location = New Point(883, 594)
         enemy.Name = "enemy"
         enemy.Size = New Size(181, 112)
         enemy.SizeMode = PictureBoxSizeMode.Zoom
@@ -71,18 +75,40 @@ Partial Class Form1
         ' enemy2
         ' 
         enemy2.Image = My.Resources.Resources._363116e7da047bd
-        enemy2.Location = New Point(663, 319)
+        enemy2.Location = New Point(1150, 441)
         enemy2.Name = "enemy2"
         enemy2.Size = New Size(181, 112)
         enemy2.SizeMode = PictureBoxSizeMode.Zoom
         enemy2.TabIndex = 3
         enemy2.TabStop = False
         ' 
+        ' platform
+        ' 
+        platform.BackColor = SystemColors.ActiveCaptionText
+        platform.Location = New Point(212, 338)
+        platform.Name = "platform"
+        platform.Size = New Size(737, 62)
+        platform.TabIndex = 4
+        platform.TabStop = False
+        ' 
+        ' enemy3
+        ' 
+        enemy3.Image = My.Resources.Resources._363116e7da047bd
+        enemy3.Location = New Point(718, 220)
+        enemy3.Name = "enemy3"
+        enemy3.Size = New Size(181, 112)
+        enemy3.SizeMode = PictureBoxSizeMode.Zoom
+        enemy3.TabIndex = 5
+        enemy3.TabStop = False
+        enemy3.Tag = "-1"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(1507, 750)
+        Controls.Add(enemy3)
+        Controls.Add(platform)
         Controls.Add(enemy2)
         Controls.Add(enemy)
         Controls.Add(astroid)
@@ -93,6 +119,8 @@ Partial Class Form1
         CType(astroid, ComponentModel.ISupportInitialize).EndInit()
         CType(enemy, ComponentModel.ISupportInitialize).EndInit()
         CType(enemy2, ComponentModel.ISupportInitialize).EndInit()
+        CType(platform, ComponentModel.ISupportInitialize).EndInit()
+        CType(enemy3, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -101,5 +129,7 @@ Partial Class Form1
     Friend WithEvents astroid As PictureBox
     Friend WithEvents enemy As PictureBox
     Friend WithEvents enemy2 As PictureBox
+    Friend WithEvents platform As PictureBox
+    Friend WithEvents enemy3 As PictureBox
 
 End Class
