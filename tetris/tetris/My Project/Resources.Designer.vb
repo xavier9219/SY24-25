@@ -123,6 +123,16 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property purepng_com_sunsunlightrayssolar_1411527180926csoj9() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("purepng.com-sunsunlightrayssolar-1411527180926csoj9", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property starfoxx_spaceship_pixel_art_spaceship_11563255587ntwryr1bmu() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("starfoxx-spaceship-pixel-art-spaceship-11563255587ntwryr1bmu", resourceCulture)
