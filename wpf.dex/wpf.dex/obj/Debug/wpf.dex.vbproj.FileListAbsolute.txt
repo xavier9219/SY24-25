@@ -1,0 +1,17 @@
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\bin\Debug\wpf.dex.exe.config
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\bin\Debug\wpf.dex.exe
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\bin\Debug\wpf.dex.pdb
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\bin\Debug\wpf.dex.xml
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.vbproj.AssemblyReference.cache
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\MainWindow.g.vb
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\Application.g.vb
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex_MarkupCompile.cache
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex_MarkupCompile.lref
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\MainWindow.baml
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.g.resources
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.Resources.resources
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.vbproj.GenerateResource.cache
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.vbproj.CoreCompileInputs.cache
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.exe
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.xml
+C:\Users\xasic937\Desktop\SY24-25\wpf.dex\wpf.dex\obj\Debug\wpf.dex.pdb

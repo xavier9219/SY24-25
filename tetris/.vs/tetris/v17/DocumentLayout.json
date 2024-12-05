@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xasic937\\Desktop\\SY24-25\\tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE88C270-B78F-40B4-BCE1-03B6C9CFFBE3}|tetris\\tetris.vbproj|c:\\users\\xasic937\\desktop\\sy24-25\\tetris\\tetris\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BE88C270-B78F-40B4-BCE1-03B6C9CFFBE3}|tetris\\tetris.vbproj|solutionrelative:tetris\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE88C270-B78F-40B4-BCE1-03B6C9CFFBE3}|tetris\\tetris.vbproj|c:\\users\\xasic937\\desktop\\sy24-25\\tetris\\tetris\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BE88C270-B78F-40B4-BCE1-03B6C9CFFBE3}|tetris\\tetris.vbproj|solutionrelative:tetris\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\xasic937\\Desktop\\SY24-25\\tetris\\tetris\\Form1.vb",
+              "RelativeDocumentMoniker": "tetris\\Form1.vb",
+              "ToolTip": "C:\\Users\\xasic937\\Desktop\\SY24-25\\tetris\\tetris\\Form1.vb",
+              "RelativeToolTip": "tetris\\Form1.vb",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAowMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T20:50:37.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\xasic937\\Desktop\\SY24-25\\tetris\\tetris\\Form1.vb",
+              "RelativeDocumentMoniker": "tetris\\Form1.vb",
+              "ToolTip": "C:\\Users\\xasic937\\Desktop\\SY24-25\\tetris\\tetris\\Form1.vb [Design]",
+              "RelativeToolTip": "tetris\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T20:44:38.386Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

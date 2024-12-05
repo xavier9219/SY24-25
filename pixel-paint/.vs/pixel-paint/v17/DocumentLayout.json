@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2EAD49-3304-4D4A-99EA-0164B1D78716}|pixel-paint\\pixel-paint.vbproj|C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\pixel-paint\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6C2EAD49-3304-4D4A-99EA-0164B1D78716}|pixel-paint\\pixel-paint.vbproj|solutionrelative:pixel-paint\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2EAD49-3304-4D4A-99EA-0164B1D78716}|pixel-paint\\pixel-paint.vbproj|c:\\users\\xasic937\\desktop\\sy24-25\\pixel-paint\\pixel-paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C2EAD49-3304-4D4A-99EA-0164B1D78716}|pixel-paint\\pixel-paint.vbproj|solutionrelative:pixel-paint\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\pixel-paint\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pixel-paint\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\pixel-paint\\MainWindow.xaml",
+              "RelativeToolTip": "pixel-paint\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T20:51:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\pixel-paint\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "pixel-paint\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\xasic937\\Desktop\\SY24-25\\pixel-paint\\pixel-paint\\MainWindow.xaml.vb",
+              "RelativeToolTip": "pixel-paint\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T20:51:07.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

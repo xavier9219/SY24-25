@@ -1,0 +1,17 @@
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\bin\Debug\pixel-paint.exe.config
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\bin\Debug\pixel-paint.exe
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\bin\Debug\pixel-paint.pdb
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\bin\Debug\pixel-paint.xml
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.vbproj.AssemblyReference.cache
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\MainWindow.g.vb
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\Application.g.vb
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint_MarkupCompile.cache
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint_MarkupCompile.lref
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\MainWindow.baml
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.g.resources
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel_paint.Resources.resources
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.vbproj.GenerateResource.cache
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.vbproj.CoreCompileInputs.cache
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.exe
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.xml
+C:\Users\xasic937\Desktop\SY24-25\pixel-paint\pixel-paint\obj\Debug\pixel-paint.pdb
